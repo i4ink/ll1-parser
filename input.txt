@@ -4,4 +4,3 @@ T:T*F|T/F|F
 F:n|i|(E)
 E
 i*i+(i-i)*n/i
-

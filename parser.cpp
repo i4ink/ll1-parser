@@ -329,7 +329,7 @@ int main()
 
     map<pair<string, string>, string> table;
     calc_table(follow, first, prod, table);
-    //displayTable(table);
+    displayTable(table);
     checkValid(table);
     //solve(table);
 
